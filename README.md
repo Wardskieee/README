@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edward</h1>
-<h3 align="center">4th Year Computer Science Student | Passionate About Building and Learning</h3>
+<h3 align="center">Computer Science Student | Passionate About Building and Learning</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=edward&label=Profile%20views&color=0e75b6&style=flat" alt="edward" />
