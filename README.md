@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Web Development, Data Structures & Algorithms**
 - 🛠️ I enjoy working with **Python, JavaScript, C++, and React**
 - 🧠 Always eager to explore **new tech and open-source**
-- 📫 Reach me at: **youremail@example.com**
+- 📫 Reach me at: **jhunedwardq.alejandro@gmail.com**
 - ⚡ Fun fact: I love coffee-fueled coding nights and debugging like a detective 🔍
 
 ---
