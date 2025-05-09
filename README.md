@@ -28,7 +28,7 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edward&show_icons=true&theme=radical" alt="Edward's GitHub stats" />
+
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edward&layout=compact&theme=radical" alt="Top languages" />
 </p>
